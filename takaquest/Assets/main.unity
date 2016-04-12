@@ -184,7 +184,7 @@ Light:
   serializedVersion: 6
   m_Type: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
+  m_Intensity: 2.5999999
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -957,7 +957,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400020, guid: 37ba646017c7a44d1b9675eec535d68c, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 37ba646017c7a44d1b9675eec535d68c, type: 3}
@@ -2070,7 +2070,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 0a97365219a151849afbe766e4af66a0, type: 3}
+  m_audioClip: {fileID: 8300000, guid: cc73b9ff247164629a060ba91621e761, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
