@@ -675,6 +675,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: .200000003
       objectReference: {fileID: 0}
+    - target: {fileID: 100066, guid: 6325c9cf6cae946688fc016951c43947, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6325c9cf6cae946688fc016951c43947, type: 3}
   m_IsPrefabParent: 0
@@ -752,7 +756,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 624453298}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cd2fbfd73edec2a4f928ede134a5027b, type: 3}
   m_Name: 
@@ -765,7 +769,7 @@ CharacterController:
   m_GameObject: {fileID: 624453298}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 2
   m_Height: 2
   m_Radius: .5
@@ -780,7 +784,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 624453298}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 86cba649657dddf418f7aef7e78b0ca4, type: 3}
   m_Name: 
@@ -1977,6 +1981,10 @@ Prefab:
     - target: {fileID: 100002, guid: 34ba3f5e79f87c24ba389c1ea90d0728, type: 3}
       propertyPath: m_TagString
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 34ba3f5e79f87c24ba389c1ea90d0728, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 34ba3f5e79f87c24ba389c1ea90d0728, type: 3}

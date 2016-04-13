@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 30c842900d75242d7a3e00fd8ac966b2
+timeCreated: 1460530407
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone_001_L
+    100004: Bone_001_L_001
+    100006: Bone_001_L_002
+    100008: Bone_001_L_003
+    100010: Bone_001_R
+    100012: Bone_001_R_001
+    100014: Bone_001_R_002
+    100016: Bone_001_R_003
+    100018: Bone_004
+    100020: Bone_L
+    100022: Bone_L_001
+    100024: Bone_L_002
+    100026: Bone_L_003
+    100028: Bone_L_004
+    100030: Bone_R
+    100032: Bone_R_001
+    100034: Bone_R_002
+    100036: Bone_R_003
+    100038: Bone_R_004
+    100040: ChestBone
+    100042: Hips
+    100044: model_mesh
+    100046: model_mesh_MeshPart0
+    100048: model_mesh_MeshPart1
+    100050: model_mesh_MeshPart2
+    100052: model_mesh_MeshPart3
+    100054: model_mesh_MeshPart4
+    100056: model_mesh_MeshPart5
+    100058: model_mesh_MeshPart6
+    100060: NeckBone
+    100062: SpineBone
+    100064: //RootNode
+    100066: Hips_L
+    100068: Hips_L_001
+    100070: Hips_L_002
+    100072: Hips_L_003
+    100074: Hips_R
+    100076: Hips_R_001
+    100078: Hips_R_002
+    100080: Hips_R_003
+    100082: shoL
+    100084: shoL2
+    100086: shoL3
+    100088: shoL4
+    100090: shoR
+    100092: shoR2
+    100094: ShoR3
+    100096: ShoR4
+    400000: Armature
+    400002: Bone_001_L
+    400004: Bone_001_L_001
+    400006: Bone_001_L_002
+    400008: Bone_001_L_003
+    400010: Bone_001_R
+    400012: Bone_001_R_001
+    400014: Bone_001_R_002
+    400016: Bone_001_R_003
+    400018: Bone_004
+    400020: Bone_L
+    400022: Bone_L_001
+    400024: Bone_L_002
+    400026: Bone_L_003
+    400028: Bone_L_004
+    400030: Bone_R
+    400032: Bone_R_001
+    400034: Bone_R_002
+    400036: Bone_R_003
+    400038: Bone_R_004
+    400040: ChestBone
+    400042: Hips
+    400044: model_mesh
+    400046: model_mesh_MeshPart0
+    400048: model_mesh_MeshPart1
+    400050: model_mesh_MeshPart2
+    400052: model_mesh_MeshPart3
+    400054: model_mesh_MeshPart4
+    400056: model_mesh_MeshPart5
+    400058: model_mesh_MeshPart6
+    400060: NeckBone
+    400062: SpineBone
+    400064: //RootNode
+    400066: Hips_L
+    400068: Hips_L_001
+    400070: Hips_L_002
+    400072: Hips_L_003
+    400074: Hips_R
+    400076: Hips_R_001
+    400078: Hips_R_002
+    400080: Hips_R_003
+    400082: shoL
+    400084: shoL2
+    400086: shoL3
+    400088: shoL4
+    400090: shoR
+    400092: shoR2
+    400094: ShoR3
+    400096: ShoR4
+    2300000: model_mesh_MeshPart0
+    2300002: model_mesh_MeshPart1
+    2300004: model_mesh_MeshPart2
+    2300006: model_mesh_MeshPart3
+    2300008: model_mesh_MeshPart4
+    2300010: model_mesh_MeshPart5
+    2300012: model_mesh_MeshPart6
+    3300000: model_mesh_MeshPart0
+    3300002: model_mesh_MeshPart1
+    3300004: model_mesh_MeshPart2
+    3300006: model_mesh_MeshPart3
+    3300008: model_mesh_MeshPart4
+    3300010: model_mesh_MeshPart5
+    3300012: model_mesh_MeshPart6
+    4300000: model_mesh_MeshPart0
+    4300002: model_mesh_MeshPart1
+    4300004: model_mesh_MeshPart2
+    4300006: model_mesh_MeshPart3
+    4300008: model_mesh_MeshPart4
+    4300010: model_mesh_MeshPart5
+    4300012: model_mesh_MeshPart6
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: model_mesh_MeshPart0
+    13700002: model_mesh_MeshPart1
+    13700004: model_mesh_MeshPart2
+    13700006: model_mesh_MeshPart3
+    13700008: model_mesh_MeshPart4
+    13700010: model_mesh_MeshPart5
+    13700012: model_mesh_MeshPart6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
