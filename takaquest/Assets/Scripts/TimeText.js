@@ -13,8 +13,8 @@ function Update()
 	{
 		time += Time.deltaTime;
 	}
-	
+
 	var now : int = time;
-	GetComponent.<GUIText>().text = "<Color=red>TIME:" +
+	GetComponent.<GUIText>().text = "<Color=white>TIME :  " +
 		now.ToString() + "</Color>";
 }
